@@ -1,6 +1,4 @@
 # Heart_prediction_failure
-A data analysis conducted to see how accurately we can predicted heart failure based on various predictors.
-
-Ml and EDA is done in python and tableau. MS Azure is used to create a base accuracy for us to beat.
+A heart failure clinical records dataset was analyzed for this project. The process began with exploratory data analysis, followed by feature engineering on the dataset. Multiple machine learning models, including logistic regression, random forest, KNN, and ensemble models, were implemented and compared to determine the best model. Azure AutoML was also used for comparison as a benchmark.
 
 Tableau EDA Analysis: https://public.tableau.com/app/profile/mlcoding123/viz/HeartPredictionFailure/Dashboard1
